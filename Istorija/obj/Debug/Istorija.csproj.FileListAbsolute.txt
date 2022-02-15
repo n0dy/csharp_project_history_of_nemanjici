@@ -1,0 +1,15 @@
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\bin\Debug\Istorija.exe.config
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.exe
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.pdb
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\bin\Debug\Istorija.exe
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\bin\Debug\Istorija.pdb
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.csprojResolveAssemblyReference.cache
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form1.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form2.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form3.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form4.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form5.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Properties.Resources.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.csproj.GenerateResource.Cache
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form6.resources
+C:\Users\batad\Desktop\Projekat\Istorija\Istorija\obj\Debug\Istorija.Form7.resources
